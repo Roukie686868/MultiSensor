@@ -22,4 +22,6 @@ This sensors gives the following infromation:
 A 24gHz presence sensor that is configurable via BlueTooth and give both a digital signal as well serial information on the activity in the room
 - Presence / non-presence digital signal
 - Serial port information giving more detail information about movement in the room
-![HLK-LD2410 Sensor](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/mmWave/HLK-LD2410/HLK-LD2410.PNG)
+![HLK-LD2410 Sensor](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/mmWave/HLK-LD2410/HLK-LD2410small1.PNG)
+![HLK-LD2410 Sensor](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/mmWave/HLK-LD2410/HLK-LD2410small2.PNG)
+
