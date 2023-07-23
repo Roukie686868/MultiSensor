@@ -7,6 +7,8 @@ This sensors gives the following infromation:
 - Temperature [°C]
 - Humidity [%]
 - Air pressure [hPa]
+  
+![BME280](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/BME280/BME280.PNG)
 ### IS-1145
 This sensors gives the following infromation:
 - Illuminance [lux]
