@@ -14,6 +14,8 @@ This sensors gives the following infromation:
 - Illuminance [lux]
 - Infrared [lux]
 - UV Index
+
+![GY1145 or IS1145](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/GY1145/GY1145.PNG)
 ### HC-SR505 or AM312
 - Presence / non-presence digital signal 
 ### HLK-LD2410
