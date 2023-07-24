@@ -1,6 +1,6 @@
 # MultiSensor project for Home Automation projects
-The goal of projects is to build a cheap multipurpose sensor for home automation systems to detect various environmental parameters as well the presence of persons. 
-The project is based around a breadboard with varions female headers to plug the sensors in. The automation is based around an ESP8266 (Wemos D1 mini). Power is supplied via the USB port on the Wemos and feeds all the sensors.
+The goal of projects is to build a cost effective multipurpose sensor board for home automation systems to detect various environmental parameters and presence of persons as well give local feedback about the status for the various sensors via Neo-Pixels. 
+The project is based around a breadboard with varions female headers to plug the sensors in. The automation is based around an ESP8266 (Wemos D1 mini). Power is supplied via the USB port on the Wemos and feeds all the sensors and Neo-Pixels.
 The breadboard will hold two more locations for additional I2C sensors (pin order = 3V3, GND, SCL, SDA) as well a header that exposes the free pins on the Wemos plus 3V3, 5V and GND for additional personal additions.
 The back of the breadboard will hold a QR code leading to this GitHub Repository.
 ## The Breadboard
