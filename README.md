@@ -47,3 +47,5 @@ A 24GHz presence sensor that is configurable via Bluetooth and give both a digit
 ![HLK-LD2410 Sensor](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/mmWave/HLK-LD2410/HLK-LD2410small1.PNG "HLK-LD2410 top")
 ![HLK-LD2410 Sensor](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/mmWave/HLK-LD2410/HLK-LD2410small2.PNG "HLK-LD2410 bottom")
 
+##Tasmota setting
+Decouple the digital input from any attached output like the Neo-Pixels with the ```SetOption114 on``` command from the console 
