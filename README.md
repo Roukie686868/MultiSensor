@@ -8,7 +8,10 @@ The back of the breadboard will hold a QR code leading to this GitHub Repository
 - 1 header (3pin) for the PIR sensor (HC-SR505 or AM312)
 - 1 header (5pin 1.27 mm spacing) for the 24GHz sensor (HLK-LD2410)
 - 1 header (10pin) to expose all the residual ports A0, D0, D3, D4, D7 & D8 on the Wemos plus 5V, 3V3 and GND
-- 1 jumper (2pin) to turn on or off the TX signal from the 24GHz sensor 
+- 1 jumper (2pin) to turn on or off the TX signal from the 24GHz sensor
+- 1 optional capacitor [100-100µF]
+- 1 Header (3pin) for the addition of WS2812 Neo-Pixel strip to locally indicate sensor status
+- 1 resitor [220-470Ω] to protect the Neo-Pixel input signal
 ![The breadboard](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/Breadboard/Breadboardsmall.PNG)
 
 # The following sensors are intended to be added:
