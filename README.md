@@ -12,7 +12,7 @@ The back of the breadboard will hold a QR code leading to this GitHub Repository
 - 1 optional capacitor [100-100µF]
 - 1 Header (3pin) for the addition of WS2812 Neo-Pixel strip to locally indicate sensor status
 - 1 resitor [220-470Ω] to protect the Neo-Pixel input signal
-![The breadboard](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/Breadboard/Breadboardsmall.PNG)
+![The breadboard](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/Breadboard/Breadboard-V2%20small.PNG)
 
 # The following sensors are intended to be added:
 ## BME-280
