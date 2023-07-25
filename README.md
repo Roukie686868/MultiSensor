@@ -48,4 +48,5 @@ A 24GHz presence sensor that is configurable via Bluetooth and give both a digit
 ![HLK-LD2410 Sensor](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/mmWave/HLK-LD2410/HLK-LD2410small2.PNG "HLK-LD2410 bottom")
 
 ##Tasmota setting
-Decouple the digital input from any attached output like the Neo-Pixels with the ```SetOption114 on``` command from the console 
+- Decouple the digital input from any attached output like the Neo-Pixels with the ```SetOption114 1``` command from the console.
+- If the switches are not seen by Home Assistant right away go to the Tasmota console and toggle the Setoption19 to 1 and back. ```SetOption19 1``` and ```SetOption19 0```
