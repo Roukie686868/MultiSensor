@@ -2,7 +2,7 @@
 The goal of projects is to build a cost effective multipurpose sensor board for home automation systems to detect various environmental parameters and presence of persons as well give local feedback about the status for the various sensors via Neo-Pixels. 
 The project is based around a breadboard with varions female headers to plug the sensors in. The automation is based around an ESP8266 (Wemos D1 mini). Power is supplied via the USB port on the Wemos and feeds all the sensors and Neo-Pixels alternatively 5volt can be supplied via a dedicated terminal.
 The intent is to have 2 sensors using I2C headers with an option to add 2 more I2C sensors (pin order = 3V3, GND, SCL, SDA). The 10-pin female header  exposes the free pins on the Wemos plus 3V3, 5V and GND for personal additions.
-The back of the breadboard will hold a QR code leading to this GitHub Repository.
+The back of the breadboard will hold a QR code leading to this GitHub Repository. [Click here for detailed installation and PCB building instruction](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/HowToInstallTheMultiSensor.pdf). 
 ## The Breadboard
 - 4 headers (4-pin female) for I2C devices (BME280, GY1145 and 2 spare slots)
 - 1 header (3-pin female) for the PIR sensor (HC-SR505 or AM312)
