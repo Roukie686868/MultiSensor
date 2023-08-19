@@ -10,9 +10,9 @@ The back of the breadboard will hold a QR code leading to this GitHub Repository
 - 1 header (3-pin female) for a microwave motion sensor (RCWL-0516) (The HLK-LD2410 & the RCWL-0516 share the same space and only one can be placed)
 - 1 header (10-pin female) to expose all the residual ports A0, D0, D3, D4, D7 & D8 on the Wemos plus 5V, 3V3 and GND
 - 2 jumpers (2-pin male) to turn on or off the TX & RX signal from the 24GHz sensor
-- 1 optional capacitor [100-100µF]
+- 1 optional capacitor [100-1000µF]
 - 1 Header (3-pin female) for the addition of WS2812 Neo-Pixel strip to locally indicate sensor status
-- 1 resitor [220-470Ω] to protect the Neo-Pixel input signal
+- 1 resistor [220-470Ω] to protect the Neo-Pixel input signal
 ![The breadboard](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/Breadboard/Breadboard-V2%20small.PNG)
 
 # The following sensors are intended to be added:
