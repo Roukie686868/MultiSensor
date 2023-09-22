@@ -14,6 +14,7 @@ The back of the breadboard will hold a QR code leading to this GitHub Repository
 - 1 Header (3-pin female) for the addition of WS2812 Neo-Pixel strip to locally indicate sensor status
 - 1 resistor [220-470Ω] to protect the Neo-Pixel input signal
 ![The breadboard](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/Breadboard/Breadboard-V2%20small.PNG)
+![Breadboard with units](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/Breadboard/complete-v2.jpg)
 
 # The following sensors are intended to be added:
 ## BME-280
@@ -24,18 +25,22 @@ This sensors gives the following information:
 - [Further details for the Bosch BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
   
 ![BME280](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/BME280/BME280.PNG "BME280")
-## IS-1145
-This sensors gives the following information:
+## IS-1145 (replaced by GY-302 due to availability/price reasons)
+This sensor gives the following information:
 - Illuminance [lux]
 - Infrared [lux]
 - UV Index
-- [Further details for the Si1145](https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf)
-  
-![GY1145 or SI1145](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/GY1145/GY1145small.PNG "GY1145 or SI1145")
+- [Further details for the Si1145](https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf)  
+![GY1145 or SI1145](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/GY1145/GY1145small.PNG "GY1145 or SI1145")  
+
+## GY-302 (or HB1750)
+This sensor gives the following information:
+- Illuminance [lux]  
+![GY-302](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/GY302/GY302.PNG)  
+
 
 ## HC-SR505 or AM312
 - Presence / non-presence digital signal
-- 
 
 ![HC-SR505](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/PIR/HC-SR505.PNG "HC-SR505")
 ![AM312](https://github.com/Roukie686868/MultiSensor/blob/main/Documents/PIR/AM312.PNG "AM312")
